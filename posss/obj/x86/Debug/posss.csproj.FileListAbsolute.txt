@@ -1,0 +1,13 @@
+C:\Users\taris\Downloads\posss\posss\bin\Debug\posss.exe
+C:\Users\taris\Downloads\posss\posss\bin\Debug\posss.pdb
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\WindowsFormsApplication1.LogInForm.resources
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\WindowsFormsApplication1.ProductForm.resources
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\WindowsFormsApplication1.Spolish.resources
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\posss.csproj.GenerateResource.Cache
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\posss.exe
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\posss.pdb
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\WindowsFormsApplication1.CategoryForm.resources
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\WindowsFormsApplication1.SellerForm.resources
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\WindowsFormsApplication1.SellingForm.resources
+C:\Users\taris\Downloads\posss\posss\obj\x86\Debug\posss.csprojResolveAssemblyReference.cache
